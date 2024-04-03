@@ -5,34 +5,16 @@ Design and Development of a Chatbot to be used in a Living Room
 <br/>recommend songs using Spotify, fetch items from the kitchen,  and use Google Gemini for questions that are out of the Chatbot’s capabilities. 
 <br/>In addition, our Chatbot can hold simple conversations such as greeting, saying goodbye, and saying its name and age.
 
-<br/> In addition, we will make use of Sentiment Analysis from the reviews of AirBnB listings to determine if the listing
-<br/> garners favourable or negative sentiments, and together with the price prediction, conclude if the AirBnB listing
-<br/>is overrated or underrated.
+<br/>In this folder is the <b>Chatbot.ipynb file</b>.
 
-<br/>In this folder is the <b>Final Project Notebook</b>. To ensure consistency, it is suggested to pre-load the current files and models we have processed and/or trained. In addition, large files have been compressed and to viet them, it is suggested to unzip all the files uploaded. The final output of this Notebook, which is called 7. final_sentiment.csv, will not be uploaded as its file size is too large, but this file may be created by following the notebook along.
+<br/>We have uploaded our Intent Recogniser Neural Network Model into the repository:
 
-<br/>We have used the Boston AirBnB listings from the Kaggle Dataset, which includes:
+Keras_model.keras
 
-1. calendar.csv
-2. listings.csv
-3. reviews.csv
+We have 3 pre-processed csv files, which include:
 
-We have 7 processed files, which include:
+1. train_df.csv
+2. test_df.csv
+3. val_df.csv
 
-1. cleaned_listing.csv
-2. predicted_prices.csv
-3. sample_reviews.csv
-4. sample_reviews_labelled.csv
-5. sample_changed_reviews.csv
-6. sample_changed_reviews_labelled.csv
-8. airbnb_prediction.csv
-
-We have 3 pre-trained models, which include:
-
-1. airbnb_pycaret.pkl
-2. airbnb_keras folder
-3. word2vec.model
-
-Lastly, we have included our Final Report together with the notebook for reference.
-
-<br/>This notebook was done together with my fellow group members - Jovon Lim, Samuel Ang and Jin Yong He - for our Final Project of E178 Statistics and Data Science Module in UC, Berkeley.
+<br/>This notebook was done together with my fellow group member Oh Sheng Han - for our Machine Learning / Artificial Intelligence module of MA 4891 in Nanyang Technological University, Singapore.
