@@ -1,9 +1,7 @@
 # Chatbot-NLP
 Design and Development of a Chatbot to be used in a Living Room
 
-<br/>In this notebook, we will showcase the main functions of our Chatbot, with the ability to: inform the user about the weather, 
-<br/>recommend songs using Spotify, fetch items from the kitchen,  and use Google Gemini for questions that are out of the Chatbot’s capabilities. 
-<br/>In addition, our Chatbot can hold simple conversations such as greeting, saying goodbye, and saying its name and age.
+<br/>In this notebook, we will showcase the main functions of our Chatbot, with the ability to: inform the user about the weather, recommend songs using Spotify, fetch items from the kitchen,  and use Google Gemini for questions that are out of the Chatbot’s capabilities. In addition, our Chatbot can hold simple conversations such as greeting, saying goodbye, and saying its name and age.
 
 <br/>The main code is found in <b>Chatbot.ipynb file</b>.
 
