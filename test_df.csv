@@ -1,0 +1,152 @@
+texts,intents
+What causes rainbows?,out_of_scope
+I’d like some background music,music
+Heylo!,greet
+Are you named?,name
+Any updates on the hurricane path?,weather
+lime,kitchen
+Are you considered a new generation AI?,age
+It was nice speaking with you,goodbye
+Can I hear some indie tracks?,music
+iced coffee,kitchen
+How far back do you date?,age
+Expected snowfall overnight?,weather
+garlic,kitchen
+How's everything?,greet
+Howdy doody!,greet
+I'll see you around,goodbye
+Are we under a hetwave?,weather
+Ahoy!,greet
+How's the air quality outdoors?,weather
+espresso,kitchen
+I want to hum to some music,music
+ehwoqjwoe,out_of_scope
+Can you play the greatest hits of this year?,music
+What's the tallest mountain in the world?,out_of_scope
+What year were you developed?,age
+What duration have you lived?,age
+When was your AI born?,age
+Can you calculate your age?,age
+I need some upbeat songs right now.,music
+Can you play some lofi beats?,music
+pantry,kitchen
+Will there be strong winds today?,weather
+fridge,kitchen
+Play a lullaby for the baby,music
+What is the forcast for today?,weather
+Until next time,goodbye
+Queue up sume classical pieces,music
+How many years have you been functioning?,age
+How long ago were you created?,age
+Let the music play,music
+How many years old are you?,age
+refrigerator,kitchen
+Heeya!,greet
+How are you doing?,greet
+pineapple,kitchen
+Current temperature?,weather
+sprite,kitchen
+grab me a coffee from the fridge,kitchen
+club soda,kitchen
+Gotta bounce,goodbye
+grab me a banana from the fridge,kitchen
+I want music from the 90s,music
+lettuce,kitchen
+differentiate,out_of_scope
+Whats happenin'?,greet
+Long time no see!,greet
+Is it going to be cloudy all day?,weather
+Hows everythin?,greet
+Is the weather bad out?,weather
+Are local roads icy today?,weather
+mountain dew,kitchen
+integrate 1/x,out_of_scope
+Your screen name?,name
+Wazzup?,greet
+Do I need a hat for the sun?,weather
+avocado,kitchen
+Who am I speaking with?,name
+dragonfruit,kitchen
+Nice to meet you!,greet
+Howz everything?,greet
+How r things?,greet
+pepper,kitchen
+blueberry,kitchen
+Is it going to snow this week?,weather
+coca cola,kitchen
+differentiation,out_of_scope
+grab me a coke from the fridge,kitchen
+grab me a beer,kitchen
+How advanced are you compared to when you were first made?,age
+I'm out,goodbye
+Do you age lke humans do?,age
+weather,weather
+Helo!,greet
+I'm in the mood for music.,music
+knife block,kitchen
+croissant,kitchen
+What alias do you use?,name
+Can you shuffle some music?,music
+What age do you claim to be?,age
+Goodbye for now,goodbye
+Where is Atlantis?,out_of_scope
+fetch me a beer,kitchen
+icd tea,kitchen
+How old do you consider yourself?,age
+Play songs for a dinner party,music
+Greetins!,greet
+fetch me a,kitchen
+Find me high-energy tracks,music
+Find me some workout music,music
+Forecast for tomorrow's weather?,weather
+Salutations!,greet
+Find me gud workout tunes,music
+Which name do you prefer?,name
+utensil holder,kitchen
+blackberry,kitchen
+Hey ther!,greet
+Play something romantic,music
+mango,kitchen
+Take care,goodbye
+I'll say goodbye for now,goodbye
+mango,kitchen
+How r u?,greet
+Can you ply some rock and roll?,music
+Since when have you been existing?,age
+Is time travel possible?,out_of_scope
+What age are you?,age
+Chance of rain this weekend?,weather
+Star a playlist for studying,music
+Who won the world cup in 2018?,out_of_scope
+grab me a beer from the fridge,kitchen
+How’s your day going?,greet
+What time will the sun set today?,weather
+How's the climate today?,weather
+Play my favorite playlist.,music
+What's your nickname?,name
+What are the chances of rain this afternoon?,weather
+"Hi, how are you holding up?",greet
+What name resonates with you?,name
+Is the weather good for fishing today?,weather
+What should I call you?,name
+macchiato,kitchen
+I gotta run,goodbye
+Who is Elon Musk?,out_of_scope
+music,music
+Hello!,greet
+Is it bright outside?,weather
+How’ve u been?,greet
+Do you have historical knowledge since your creation?,age
+Whatsup?,greet
+What's the weather outlook for July?,weather
+Will it be chilli out this evening?,weather
+jar,kitchen
+Play some soft background music,music
+Do you have an age?,age
+How's the weather looking?,weather
+cappuccino,kitchen
+I'd like to enjoy some music.,music
+How many versions of you exist?,age
+can you play some music,music
+What's new?,greet
+Can you play something from Spotify?,music

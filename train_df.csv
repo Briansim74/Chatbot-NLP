@@ -1,0 +1,453 @@
+texts,intents
+fetch me a coke,kitchen
+What name should I use?,name
+Play somthing calming,music
+What's your title?,name
+Do you have a concept of age?,age
+kithcen,kitchen
+"Hey, how's life treating you?",greet
+Can you play music from the movies?,music
+asdfghjkl;,out_of_scope
+onion,kitchen
+I'll take my leave,goodbye
+pineapple juice,kitchen
+I need some good music,music
+Do you have an expiration date?,age
+Find me some party music,music
+I'd like to hear classical tunes,music
+soda,kitchen
+hot choclate,kitchen
+latte,kitchen
+cider,kitchen
+kale,kitchen
+Could you disclose your age?,age
+cupboard,kitchen
+What's the humidity like now?,weather
+I’ll head off now,goodbye
+I want something with a beat,music
+How many continents are there?,out_of_scope
+Do you go by a name?,name
+Tell me a joke,out_of_scope
+How are you referred to?,name
+Welcome back!,greet
+Is a strom coming soon?,weather
+Shuffle my favorite songs,music
+What name do you go by?,name
+Paly the newest pop songs,music
+bottled water,kitchen
+qwertyuiop,out_of_scope
+Whats goin on?,greet
+What's the weather forcaste?,weather
+How long will you continue to operate?,age
+Will it be sunny tomorrow?,weather
+What's the temperature outside?,weather
+wine,kitchen
+kitchen,kitchen
+Time to shut down,goodbye
+How can I address you?,name
+"You seem quite young, how old are you?",age
+kitchen,kitchen
+What is your age since activation?,age
+tomato,kitchen
+Expected high temperatures this afternoon?,weather
+What's the humidity level outside?,weather
+Let’s have some musical fun,music
+pineapple,kitchen
+grape juice,kitchen
+differentiate 1/x,out_of_scope
+Can you age?,age
+butter,kitchen
+What is the forecast for today?,weather
+gibberish input,out_of_scope
+Is there a name you prefer?,name
+Are you an early version of AI or a more recent development?,age
+It's a pleasure to meet you!,greet
+spice rack,kitchen
+What is the formula for water?,out_of_scope
+How was the universe created?,out_of_scope
+Signing off,goodbye
+fridge,kitchen
+Do you age like humans do?,age
+How ya been?,greet
+randomness,out_of_scope
+How r u?,greet
+Play something to dance to,music
+naem,name
+What's the weather forcast for today?,weather
+Could you tell me your name?,name
+Can you tell me your age?,age
+What's the period of your existence?,age
+Have you got a name?,name
+Howz life treatin' ya?,greet
+i want to listen to tunes,music
+I need some cheerful music to lift my mood,music
+dr pepper,kitchen
+sparkling water,kitchen
+Is the sun out today?,weather
+Will the fog clear up by morning?,weather
+Is your software evergreen?,age
+Do you mind telling me your age?,age
+How many years young are you?,age
+Hey! Long time no see!,greet
+What's your version age?,age
+Cheers!,greet
+Any good tunes to recommend?,music
+Will it be windy enough for sailing?,weather
+What name do you like?,name
+waffle,kitchen
+Play the number one song right now,music
+I must be going,goodbye
+I need some hip hop beats,music
+Plezed to meet u!,greet
+lemon,kitchen
+chai latte,kitchen
+Welcome!,greet
+Why is the sky blue?,out_of_scope
+When were you first activated?,age
+Be seeing you,goodbye
+Your preferred title?,name
+Is there an end to your operational life?,age
+Nise to see u!,greet
+msuic,music
+Weather forecast,weather
+I want to listen to some songs,music
+green tea,kitchen
+pepsi,kitchen
+What do I call you?,name
+Yo!,greet
+What's the temprature outside?,weather
+Is it too hot for a jog outside?,weather
+spinach,kitchen
+kiwi,kitchen
+Good to c u!,greet
+what is ur name?,name
+What's the age of your AI system?,age
+Who are you called?,name
+dish rack,kitchen
+cherry,kitchen
+Play something for a quiet evening,music
+How old do you consider yourself?,age
+How ancient are you in the digital world?,age
+blah blah blah,out_of_scope
+What is the speed of light?,out_of_scope
+Is it save to go out in this wether?,weather
+Looking forward to our next conversation,goodbye
+Queue up some hits,music
+Hi!,greet
+Look at you!,greet
+fig,kitchen
+What is the temperature gonna be at noon?,weather
+Play the winning song of the Eurovision,music
+What's the extent of your memory?,age
+math,out_of_scope
+I look forward to our next meeting,goodbye
+How frequently are you updated?,age
+enery drink,kitchen
+how can I address you?,name
+grab me a lemon from the fridge,kitchen
+Hello again!,greet
+What's the length of your existence?,age
+Who is the richest person in the world?,out_of_scope
+gemini,out_of_scope
+fig,kitchen
+temperature,weather
+Do chatbots celebrate birthdays?,age
+Must be saying goodbye,goodbye
+cheese,kitchen
+I’m in the mood for music,music
+It's nice to meet you!,greet
+Is a storm coming?,weather
+Why do we dream?,out_of_scope
+Put on some music,music
+How do planes fly?,out_of_scope
+At what age are you?,age
+watermelon,kitchen
+How many years back were you made?,age
+Are we expecting any thunderstorms?,weather
+peach,kitchen
+wine rack,kitchen
+Catch you on the flip side,goodbye
+Can we listen to podcasts here?,music
+haha funny,out_of_scope
+Play som musik,music
+breadbox,kitchen
+How many years have you been alive?,age
+How r u doin?,greet
+Are you updated regularly?,age
+sugar,kitchen
+What is your name?,name
+fruit basket,kitchen
+Are you okay?,greet
+"I'm curious, how old are you?",age
+Have you been around for a long time?,age
+How old are you in terms of functionality?,age
+Do you identify by a name?,name
+Salutashuns!,greet
+Sup?,greet
+Will it be warmer tomorrow?,weather
+Play the best of the 80s,music
+Glad to see you!,greet
+How many updates have you gone through?,age
+Are AI's ageless?,age
+Time to say goodbye,goodbye
+Crank up the songs,music
+I want to discover new music,music
+I'd like to hear some acoustic versions,music
+Good to see you!,greet
+Good afternoon!,greet
+Curent temperature?,weather
+pasta,kitchen
+flavored water,kitchen
+"Howz it goin', pal?",greet
+How many years have you existed?,age
+Are you willing to share how old you are?,age
+Start the morning with upbeat songs,music
+integrate,out_of_scope
+What's the weather like today?,weather
+youtube,out_of_scope
+juice,kitchen
+Tell me the condition outside,weather
+When did your service begin?,age
+Where is the nearest gas station?,out_of_scope
+I think I'll head off now,goodbye
+rack,kitchen
+Good night,goodbye
+What is the extent of your life?,age
+Glad to c ya!,greet
+Can you tell me the duration of your existence?,age
+random text here,out_of_scope
+What is the theory of relativity?,out_of_scope
+iced tea,kitchen
+Do AI have ages?,age
+What name do you answer to?,name
+What year were you born?,age
+Do I need to dress up warm today?,weather
+grab me a coke,kitchen
+Since when hav you existed?,age
+Until our paths cross again,goodbye
+Any chance of a rainbow today?,weather
+towel rack,kitchen
+carrot,kitchen
+How does one measure your age?,age
+grab me a banana,kitchen
+lemonade,kitchen
+milk,kitchen
+"In terms of years, how old are you?",age
+Is there a creation date for you?,age
+Play some live music recordings,music
+How long have you existed for?,age
+Heyyy!,greet
+Good day!,greet
+Adios,goodbye
+Turn on some jazz music,music
+See ya,goodbye
+Is the temperatue dropping tonight?,weather
+Let's catch up soon,goodbye
+Until we meet again,goodbye
+oat milk,kitchen
+What's your age?,age
+Are you aged or timeless?,age
+What is the timeline of your updates?,age
+Play some relaxing music for sleep,music
+jucie,kitchen
+Play a random track,music
+What's the number of years since you were created?,age
+Do you have a pet name?,name
+cookie jar,kitchen
+Will it pour today?,weather
+music,music
+almond milk,kitchen
+kiwi,kitchen
+potato,kitchen
+How's the weather?,weather
+What are you known as?,name
+Whazzup?,greet
+Nice to see you!,greet
+can I ask for your name,name
+Who is the current monarch of England?,out_of_scope
+Shoud I expect frost tonite?,weather
+Do you celebrate a birthday?,age
+Greetings and salutations!,greet
+Play list top charting songs,music
+May I know your name?,name
+When is your next update scheduled?,age
+What's your code name?,name
+listen,music
+I want to listen to music,music
+fetch me a lemon,kitchen
+How long is the Great Wall of China?,out_of_scope
+Talk to you later,goodbye
+Peace out,goodbye
+sdjklfgj,out_of_scope
+Good to c ya!,greet
+What's the name on your birth certificate?,name
+rice,kitchen
+Hey there!,greet
+Do I ned sunscreen today?,weather
+Farewell,goodbye
+Long time no c!,greet
+Is it muggy today?,weather
+Hw old are you?,age
+Heyya!,greet
+lololol,out_of_scope
+Heya!,greet
+Do I need an umbrella today?,weather
+Play a song for me,music
+Hope to see you again soon,goodbye
+Forecast for the upcoming holiday?,weather
+lemon,kitchen
+can,kitchen
+Chance of ran this weekend?,weather
+Howdy!,greet
+Will there be a lot of sun today?,weather
+Can we expect good weather for the match?,weather
+cucumber,kitchen
+I wanna hear some rap muzik,music
+How long have you been operational?,age
+Look who it is!,greet
+banana,kitchen
+I need a music fix,music
+What’s the length of time you’ve been active?,age
+I'll make a move now,goodbye
+"Hey, haven’t seen you in ages!",greet
+Is there an age you identify with?,age
+Are you freshly created or old?,age
+guava,kitchen
+What's the weather gonna be?,weather
+energy drink,kitchen
+Who invented the telephone?,out_of_scope
+Howz it hangin'?,greet
+shelf,kitchen
+aljsdlkfjas,out_of_scope
+fruit punch,kitchen
+Is it warm out?,weather
+hjdkshfkjsdf,out_of_scope
+How u doin?,greet
+What do they call you?,name
+What is cryptocurrency?,out_of_scope
+Wats new?,greet
+I need musc for meditation,music
+Is a storm coming soon?,weather
+What's the weather forecast for this week?,weather
+Let's hear some beats.,music
+What name were you given?,name
+What's the wether forecast for this week?,weather
+Do I need to where a jacket today?,weather
+How many birthdays have you had?,age
+Who wrote 'To Kill a Mockingbird'?,out_of_scope
+apple,kitchen
+I’m off,goodbye
+How ya doin'?,greet
+What is dark matter?,out_of_scope
+Do you evolve over time?,age
+cinnamon,kitchen
+Got a name?,name
+Can you play somethin fun?,music
+How many years have you served as a chatbot?,age
+What's your name?,name
+name?,name
+Start playing music,music
+freezer,kitchen
+What's the date of your initial launch?,age
+Who discovered America?,out_of_scope
+musik,music
+Is it likely to rain over the weekend?,weather
+I'll be on my way then,goodbye
+I want to listen to some blues,music
+Hows it going?,greet
+lemunade,kitchen
+Is it misty outside?,weather
+cream,kitchen
+chamomile tea,kitchen
+What is the name you have?,name
+Hiya!,greet
+canister,kitchen
+What year did the Titanic sink?,out_of_scope
+Play the top hits,music
+Is it chily outside?,weather
+I’ve got to get going,goodbye
+How likely is hail in the forecast?,weather
+Will there be a freeze tonight?,weather
+Will the weather be good for a walk?,weather
+By what name can I call you?,name
+What is deja vu?,out_of_scope
+How's the family?,greet
+Do you have a birthday?,age
+songs,music
+What is your given name?,name
+Is it too hot for a run outside?,weather
+I’d like to hear some songs,music
+What is quantum mechanics?,out_of_scope
+Whatzup?,greet
+How’s life?,greet
+grab me a coffee,kitchen
+Can we see the northern lights tonight?,weather
+Forecas for tomorrow's weather?,weather
+Were you recently developed or are you old technology?,age
+Can you solve math problems?,out_of_scope
+Howz it goin?,greet
+Welcome back!,greet
+Since what year have you existed?,age
+Play anything good,music
+Let's hear some reggae,music
+bye,goodbye
+How long ago were you created?,age
+Your official name?,name
+Should I ware a jacket?,weather
+How’s it going?,greet
+How old might you be?,age
+What's the humidty level outside?,weather
+What's the capital of France?,out_of_scope
+Hei!,greet
+Turn on som chillout music,music
+Do virtual assistants have life spans?,age
+Howdy partner!,greet
+Is it a good day for fishing?,weather
+I'd like to listen to opera,music
+lychee,kitchen
+Feeling like listening to some beats,music
+fetch me a banana,kitchen
+smothie,kitchen
+What's the formula for photosynthesis?,out_of_scope
+Should I expect frost tonight?,weather
+What’s up?,greet
+tonic water,kitchen
+Who painted the Mona Lisa?,out_of_scope
+refrigerator,kitchen
+Are we gonna get hit by the hurricane?,weather
+Is it safe to go out in this weather?,weather
+Play a sond that's trending,music
+celery,kitchen
+asdfghjkl,out_of_scope
+What's your preferred name?,name
+Music please,music
+How about we listen to the radio?,music
+What should I refer to you as?,name
+Is there a weather warning in effect?,weather
+orange,kitchen
+What's the count of years since your creation?,age
+hot chocolate,kitchen
+Turn up some EDM,music
+vegetable juice,kitchen
+Have you been around for a long time?,age
+Are we expecting a dry day?,weather
+Is it safe to barbecue outside today?,weather
+When did you first come into existence?,age
+Put on my favorite album,music
+Sup?,greet
+Put on some country music,music
+pomegranate juice,kitchen
+How are things?,greet
+Is it too cold for swimming?,weather
+How ya been doin'?,greet
+When was the internet invented?,out_of_scope
+protein shake,kitchen
+I've got to head out,goodbye
+calculate,out_of_scope
+suggestions,out_of_scope
+How's the wether?,weather
+cofee,kitchen
+tomato juice,kitchen
+Is it goin to ran today?,weather
+What's your date of creation?,age
+integration,out_of_scope

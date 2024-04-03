@@ -1,0 +1,152 @@
+texts,intents
+Is there a retirement age for chatbots?,age
+"Sup, buddy?",greet
+How can I call you?,name
+Since when have you been operational?,age
+Later,goodbye
+Do you have any name?,name
+orange juice,kitchen
+Do you undergo aging processes?,age
+beer,kitchen
+What's your handle?,name
+vodka,kitchen
+Are we under a heatwave?,weather
+matcha tea,kitchen
+Is the air quality index low today?,weather
+Greetings!,greet
+icebox,kitchen
+Howz life?,greet
+Should I expect frost in the morning?,weather
+Are you old?,age
+Can you put on some dance tracks?,music
+pear,kitchen
+Any chance of a typhoon soon?,weather
+container,kitchen
+I shall take my leave now,goodbye
+brandy,kitchen
+cranberry juice,kitchen
+kombucha,kitchen
+Do I need to wear a jacket today?,weather
+What's the deepest ocean?,out_of_scope
+I wanna enjoy some music,music
+It’s been real,goodbye
+Got any song recommendations?,music
+tea,kitchen
+integrate tanh(x),out_of_scope
+Are there any wind advisories?,weather
+Will it be icy on the roads?,weather
+water,kitchen
+coffee,kitchen
+drawer,kitchen
+Let's do this again sometime,goodbye
+apple cider,kitchen
+Play my playlist,music
+What's the duration of your existence?,age
+How's the wether looking for my trip?,weather
+Is visibility low this morning?,weather
+coke,kitchen
+Will it be a clear night?,weather
+You alright?,greet
+Can you recommend a book?,out_of_scope
+What's the visibility level for driving?,weather
+smoothie,kitchen
+I’d like to discover new music,music
+Whatz new?,greet
+What's yur creation date?,age
+I'm in the mood for folk music,music
+Under what name are you operating?,name
+Start a rock playlist,music
+How do you like to be called?,name
+Pleased to meet you!,greet
+Can you shuffle play music?,music
+Howz things?,greet
+What would you like me to call you?,name
+vermouth,kitchen
+How many languages are there?,out_of_scope
+What is Pi?,out_of_scope
+kitchen,kitchen
+oats,kitchen
+Put on sme jazz and blues,music
+herbal tea,kitchen
+What's the distance to the moon?,out_of_scope
+See you soon,goodbye
+sports drink,kitchen
+Will it be sunny tommorow?,weather
+Howz it goin?,greet
+It's time for me to depart,goodbye
+rum,kitchen
+What's the total of your years?,age
+Whats the weathr like?,weather
+salt,kitchen
+What’s the weather up to?,weather
+strawberry,kitchen
+age,age
+soft drink,kitchen
+How does time affect your algorithms?,age
+grape,kitchen
+sherry,kitchen
+Can you play the latest tracks?,music
+vegetable bin,kitchen
+Have a good one,goodbye
+Is it going to rain today?,weather
+Is it hailing outside?,weather
+Good to have you back!,greet
+What do your friends call you?,name
+Play some tunes,music
+milk,kitchen
+Is it safe to go out in the storm?,weather
+lkajsdlkfj,out_of_scope
+pear,kitchen
+Do you grow wiser with age?,age
+How cold will it get tonight?,weather
+Its been a while!,greet
+randomword,out_of_scope
+ginger ale,kitchen
+orange,kitchen
+grab me a lemon,kitchen
+Let's speak again soon,goodbye
+counter,kitchen
+I bid you adieu,goodbye
+How have you been?,greet
+I’ll catch you later,goodbye
+vanilla,kitchen
+Time for me to go,goodbye
+Play a song for me,music
+Wether forecast,weather
+grab me a,kitchen
+papaya,kitchen
+What’s crackin'?,greet
+whiskey,kitchen
+quinoa,kitchen
+root beer,kitchen
+How’s everything coming along?,greet
+Is it sunny or cloudy?,weather
+Wht's the weathr like today?,weather
+It’s been a while!,greet
+In what year were you developed?,age
+Gotta hit the road,goodbye
+Do I ned an umbrella today?,weather
+Play traks for a road trip,music
+Turn on some tunes,music
+It's been a pleasure,goodbye
+Do you consider yourself young or old?,age
+soda,kitchen
+Expected hi temperatures this afternoon?,weather
+banana,kitchen
+Look what came in!,greet
+moosic,music
+How’s your day?,greet
+Time to hit the road,goodbye
+soy milk,kitchen
+What is the time span of your existence?,age
+pot rack,kitchen
+hanging rack,kitchen
+cabinet,kitchen
+Queue up the latest albums,music
+watermelon,kitchen
+milkshake,kitchen
+What's the UV index today?,weather
+What's inside a black hole?,out_of_scope
+Let me hear some beats.,music
+zxcvbnm,out_of_scope
+apple,kitchen
