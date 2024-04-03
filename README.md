@@ -11,7 +11,8 @@ Design and Development of a Chatbot to be used in a Living Room
 
 Keras_model.keras
 
-We have 3 pre-processed csv files, which include:
+
+<br/>We have 3 pre-processed csv files, which include:
 
 1. train_df.csv
 2. test_df.csv
