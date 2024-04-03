@@ -5,7 +5,8 @@ Design and Development of a Chatbot to be used in a Living Room
 <br/>recommend songs using Spotify, fetch items from the kitchen,  and use Google Gemini for questions that are out of the Chatbot’s capabilities. 
 <br/>In addition, our Chatbot can hold simple conversations such as greeting, saying goodbye, and saying its name and age.
 
-<br/>In this folder is the <b>Chatbot.ipynb file</b>.
+<br/>The main code is found in <b>Chatbot.ipynb file</b>.
+
 
 <br/>We have uploaded our Intent Recogniser Neural Network Model into the repository:
 
